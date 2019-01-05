@@ -1,0 +1,36 @@
+{
+  "Store": {
+    "id": "QmUUkhH4Grt94jB8bnYgPq41aBHrzRTJFnsuXYvwbpQzL8",
+    "rsa_pub": "CAASpgIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC3to4VtDpiC1s0z+UoAv1ufodbVO4NKeze261prM8puLBZktsMwxhtFrbgoCxBPVVYeFkpYSijuzyPFG601bb/VEGkFlKi2f2JdzRyPTxtU1CY+qIJsAQvIUTpE9z2btMMjqO7I7PigR6TOJDOnfOa4IA+syld9iKFo2OmIr4oIEwA2KGURj8mTxbhwwCP+EaKxQMR4ympQJDVIqZDJlXjLfmN/V+46b8Jay1thCs2SrcHzLdfVpeGgONwrFI68y+7TpBp6uhzA/EVlGeoWAhHORrQHQUcOjVQBBGprHzav8NBNRboH6TZN4xfh2mwtf4M2ojeotdWpKGNBTaTEcMzAgMBAAE=",
+    "storeName": "Whatever",
+    "storeDecription": "Humblebrag", 
+    "baseCurrency": "USD",
+    "nsfw": "false",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/EBay_logo.svg",
+    "backgroundColor": "white",
+    "font-family": "Arial",
+    "h1": "Black",
+    "h2": "Grey",
+    "favico": "/ipns/QmUUkhH4Grt94jB8bnYgPq41aBHrzRTJFnsuXYvwbpQzL8"
+  },
+  "Items": {
+    "item": [
+      {
+        "id": "1",
+        "productName": "Shirt",
+        "productDescription": "Cruise",
+        "photo0": "https://jsonformatter.org/img/tom-cruise.jpg",
+        "photo1": "https://jsonformatter.org/img/tom-cruise.jpg",
+        "photo2": "https://jsonformatter.org/img/tom-cruise.jpg",
+        "photo3": "https://jsonformatter.org/img/tom-cruise.jpg",
+        "category": "Clothing",
+        "nsfw": "false",
+        "price": "1.99",
+        "quantityRemaining": "99",
+        "custom_prop1": "size",
+        "custom_prop2": "color"
+      }
+    ]
+  },
+  "Follows": ["store_x", "store_y", "store_z"]
+}
